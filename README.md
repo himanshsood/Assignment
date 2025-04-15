@@ -1,1 +1,1 @@
-![My Image](Screenshot (126).png)
+![My Image](Screenshot(126).png)
